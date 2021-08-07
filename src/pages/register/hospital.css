@@ -1,0 +1,17 @@
+.condition-layout{
+  display: flex;
+}
+
+.condition-item{
+  border: 1px solid darkgray;
+  flex: 1;
+}
+.hospital{
+  position: relative;
+  top: 20px;
+}
+.condition-select{
+  flex: 1;
+  border: 1px solid darkgray;
+}
+
